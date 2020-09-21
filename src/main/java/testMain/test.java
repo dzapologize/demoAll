@@ -3,6 +3,7 @@ package testMain;
 import com.google.inject.internal.cglib.core.$Local;
 
 public class test {
+    //修改
     public long count = 0;
     public long add10K() {
         int idx = 0;
