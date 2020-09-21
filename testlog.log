@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-07-23T16:38:36</date>
+  <millis>1595493516308</millis>
+  <sequence>0</sequence>
+  <logger>testlog</logger>
+  <level>INFO</level>
+  <class>com.example.demo.DemoApplication</class>
+  <method>main</method>
+  <thread>16</thread>
+  <message>This is test java util log</message>
+</record>
